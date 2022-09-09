@@ -1,0 +1,17 @@
+.login {
+    height: 98vh;
+    font-family: "Raleway", sans-serif;
+    background-image: url("https://cdn.dribbble.com/users/2862326/screenshots/10863301/media/9a100f3b8b106bea7f95c31c8d2b927e.png?compress=1&resize=1200x900&vertical=top");
+  background-repeat: no-repeat;
+  background-size: 1000px;
+  background-attachment: fixed;
+  background-position: right; 
+}
+
+img {
+    margin-left: -40px;
+}
+.form {
+    padding: 80px 80px 80px 150px ;
+    background-color: white;
+}
